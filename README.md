@@ -77,6 +77,6 @@ The goal was to uncover bottlenecks and cost optimization opportunities across t
 
 ## 📌 Conclusion
 
-This Power BI project offered actionable insights into the supply chain’s operational health by analyzing key metrics like revenue, profit, shipping performance, and defect rates. It helps decision-makers focus on top-performing products, reduce cost leakages, and improve supplier reliability.
+This Power BI project offered actionable insights into the supply chain’s operational health by analyzing key metrics like revenue, profit, shipping performance, and defect rates. It helps to focus on top-performing products, reduce cost leakages, and improve supplier reliability.
 
 ---
