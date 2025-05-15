@@ -1,5 +1,5 @@
 # 📦 Supply Chain Analysis Dashboard
-![Dashboard]()
+![Dashboard](Supplychaindashboard.png)
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)  
